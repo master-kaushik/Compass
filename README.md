@@ -4,10 +4,8 @@ Simple and very light lua script which helps users to find direction.
 
 This script is really helpful for the blind people.
 
-# Made By:
+Made By: Ashish Kaushik
 
-Ashish Kaushik
-
-# Support
+Support:
 
 smartprogrammers.sp@gmail.com
