@@ -1,6 +1,8 @@
 # Compass
 
-Simple and very light lua script which helps users to find direction.\nThis script is really helpful for the blind people.
+Simple and very light lua script which helps users to find direction.
+
+This script is really helpful for the blind people.
 
 # Made By:
 
