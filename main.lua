@@ -25,6 +25,7 @@ mGeomagnetic = sensorEvent.values
 elseif type == 3 then
 mOrientation = sensorEvent.values
 end
+--Made By: Ashish Kaushik
 sensorEvent = mGravity
 if sensorEvent then
 fArr = mGeomagnetic
